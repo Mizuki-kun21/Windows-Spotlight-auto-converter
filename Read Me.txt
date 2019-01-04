@@ -1,0 +1,1 @@
+To use this batch file place the file on your desktop and run the batch file. Make sure an Identically named folder "Windows spotlight" is located in your pictures folder
